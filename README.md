@@ -4,7 +4,7 @@ Employers App
 Description
 -----------
 
-Employers App is my first application built on React.js during the training courses on JS and React. The application serves as a record of employees in the company, providing various functionalities such as:
+The application serves as a record of employees in the company, providing various functionalities such as:
 
 *   Tracking the number of employees
 *   Employee search and filters
